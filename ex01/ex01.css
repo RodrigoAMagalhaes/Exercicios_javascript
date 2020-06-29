@@ -1,0 +1,44 @@
+body{
+
+    background-color: rgba(0, 0, 255, 0.514);
+
+}
+
+header{
+
+    color: white;
+    font:normal 20px Arial;
+    text-align: center;
+    margin: 15px;
+}
+
+section{
+
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+
+}
+
+footer{
+
+    color: white;
+    font:italic 20px calibri;
+    text-align: center;
+    margin: 15px;
+}
+
+img{
+    width: auto;
+    height: auto;
+    max-width: 250px;
+    max-height: 250px;
+    padding: 20px;
+    border-radius: 50%;
+
+}
