@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(0, 0, 255, 0.479);
+}
+
+header{
+    color: cornsilk;
+    font: normal 20px Arial;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    padding: 5px;
+    width: 400px;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.527);
+}
+div{
+    color: black;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font: italic 20px Lucida Bright;
+    
+}
