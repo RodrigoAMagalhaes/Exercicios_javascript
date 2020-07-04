@@ -1,0 +1,4 @@
+Bolsa de O2 que apresenta maior potencial e maior confiabilidade;
+Faixa de volume minuto mínima e máxima de 30% a 90% de FiO2 para um fluxo de O2 de 1,0 a 15,0 litros/minuto;
+Definir um método de calibração do fluxômetro;
+Verificar correlação entre pressão de Oxigênio lida com o FiO2
